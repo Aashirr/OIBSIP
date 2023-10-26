@@ -1,0 +1,44 @@
+.body {
+    background-image: url('bg1.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    background-repeat: no-repeat;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+}
+
+.new-converter {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #101010;
+    border-radius: 5px;
+    background-color: #f4f4f4a1;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #00cc88;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056a2;
+}
